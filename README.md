@@ -3,6 +3,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 Bu repo patika eğitimime ilk başladığım repomdur. İçerisinde bir adet README dosyası bulunmakta.
 
+[![Image](https://i.hizliresim.com/n3lyy4u.jpg)](https://hizliresim.com/n3lyy4u)
 
 # İnstallation
 Projeyi klonlamak için
